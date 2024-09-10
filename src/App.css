@@ -1,0 +1,21 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: black;
+  
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: lightgray;
+  color: black ;
+  border: black solid 5px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
